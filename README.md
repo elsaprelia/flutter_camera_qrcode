@@ -44,9 +44,7 @@ Aplikasi terdiri dari 3 file meliputi:
     * Pause: untuk menghentikan scan QR Code
     * Resume: untuk melanjutkan scan QR Code
 
-![Hasil Praktikum](./images/04.png)
 
-![Hasil Praktikum](./images/05.png)
 
 * Halaman Camera, terdapat button untuk take foto/gambar
 
